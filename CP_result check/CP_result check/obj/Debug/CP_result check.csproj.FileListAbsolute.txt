@@ -1,0 +1,19 @@
+C:\Users\user\source\repos\CP_result check\CP_result check\bin\Debug\CP_result check.exe.config
+C:\Users\user\source\repos\CP_result check\CP_result check\bin\Debug\CP_result check.exe
+C:\Users\user\source\repos\CP_result check\CP_result check\bin\Debug\CP_result check.pdb
+C:\Users\user\source\repos\CP_result check\CP_result check\obj\Debug\CP_result_check.Form1.resources
+C:\Users\user\source\repos\CP_result check\CP_result check\obj\Debug\CP_result_check.Properties.Resources.resources
+C:\Users\user\source\repos\CP_result check\CP_result check\obj\Debug\CP_result check.csproj.GenerateResource.cache
+C:\Users\user\source\repos\CP_result check\CP_result check\obj\Debug\CP_result check.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CP_result check\CP_result check\obj\Debug\CP_result check.csproj.CopyComplete
+C:\Users\user\source\repos\CP_result check\CP_result check\obj\Debug\CP_result check.exe
+C:\Users\user\source\repos\CP_result check\CP_result check\obj\Debug\CP_result check.pdb
+C:\Fiona\CP_result check\CP_result check\bin\Debug\CP_result check.exe.config
+C:\Fiona\CP_result check\CP_result check\bin\Debug\CP_result check.exe
+C:\Fiona\CP_result check\CP_result check\bin\Debug\CP_result check.pdb
+C:\Fiona\CP_result check\CP_result check\obj\Debug\CP_result_check.Form1.resources
+C:\Fiona\CP_result check\CP_result check\obj\Debug\CP_result_check.Properties.Resources.resources
+C:\Fiona\CP_result check\CP_result check\obj\Debug\CP_result check.csproj.GenerateResource.Cache
+C:\Fiona\CP_result check\CP_result check\obj\Debug\CP_result check.exe
+C:\Fiona\CP_result check\CP_result check\obj\Debug\CP_result check.pdb
+C:\Fiona\CP_result check\CP_result check\obj\Debug\CP_result check.csprojResolveAssemblyReference.cache
